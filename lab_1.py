@@ -1,5 +1,6 @@
 """
 CIS 40 Lab 1 - My First Python Program
+WITH SOME EDITS
 """
 name = "Michael Wallerius"
 e_mail = "mikesterciv1@gmail.com"
